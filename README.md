@@ -7,6 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,tailwind,js,laravel,vscode,linux,html)](https://skillicons.dev)
 
+[![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
 
 <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
 
