@@ -15,7 +15,9 @@
 ```
 while ( ! (succeed = try( ) ) );
 
-“Mengumpulkan bekal untuk berpulang nanti” - Ust. Adi Hidayat
+“Jika tidak bisa berlomba berbuat baik,
+Maka berkumpullah dengan pendosa
+agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 ```
 
 <details open>
