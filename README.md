@@ -13,8 +13,6 @@
 
 <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
 
-[<img src="https://readme-spotify-status-ahmadabuhasan.vercel.app/api/run-spotify-status" alt="Spotify Status" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
-
 ##### MOTTO
 
 ```
