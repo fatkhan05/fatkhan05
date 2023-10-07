@@ -7,10 +7,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,tailwind,js,laravel,vscode,linux,html)](https://skillicons.dev)
 
+[![Website](https://img.shields.io/website?up_message=online&up_color=61DBFB&down_message=maintenance&down_color=FF0000&url=https%3A%2F%2F&logo=tailwind)]([https://connect-with-eby.web.app](https://fatkhan05.github.io/portfolio-tailwindcss/))
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
 [![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
 
 <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
+
+[<img src="https://readme-spotify-status-ahmadabuhasan.vercel.app/api/run-spotify-status" alt="Spotify Status" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
 
 ##### MOTTO
 
