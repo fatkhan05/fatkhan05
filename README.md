@@ -1,4 +1,4 @@
-### Assalamualaikum 👋
+### Assalamualaikum 
 
 #### I'm Fatkhan Akbar, I'm from Indonesia
 
@@ -7,7 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,tailwind,js,laravel,vscode,linux,html)](https://skillicons.dev)
 
-[![Website](https://img.shields.io/website?up_message=online&up_color=61DBFB&down_message=maintenance&down_color=FF0000&url=https%3A%2F%2Fp&logo=tailwindcss)]((https://fatkhan05.github.io/portfolio-tailwindcss/))
+[![Website](https://img.shields.io/website?up_message=online&up_color=61DBFB&down_message=online&down_color=FF0000&url=https%3A%2F%2Fportfolio-fatkhan&logo=tailwindcss)](https://fatkhan05.github.io/portfolio-tailwindcss)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
 [![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
 
