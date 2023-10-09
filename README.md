@@ -1,6 +1,6 @@
 ### Assalamualaikum 
 
-#### I'm Fatkhan Akbar, I'm East Java
+#### I'm Fatkhan Akbar, I'm From East Java
 
 ![GitHub Follow](https://img.shields.io/github/followers/fatkhan05.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/fatkhan05?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
