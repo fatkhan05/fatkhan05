@@ -74,6 +74,12 @@ Here are some ideas to get you started:
 -->
 ---
 
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+---
+
 ## OMG! this snake is eating my contributions . . . 😫
 <!-- ![snake gif](https://github.com/Sriansh-raj/Sriansh-raj/blob/output/github-contribution-grid-snake.gif) -->
 <picture>
