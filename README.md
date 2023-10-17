@@ -42,8 +42,8 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatkhan05&layout=compact&theme=dark">
 </a></p>
 <p align="center">
-  <a href="https://github.com/eby8zevin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatkhan05&theme=dark"/>
+  <a href="https://github.com/fatkhan05">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eby8zevin&theme=dark"/>
   </a>
 </p>
 </details>
