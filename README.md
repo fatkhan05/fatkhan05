@@ -34,7 +34,7 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 </details>
 </details>
 
-<details>
+<details open>
   <summary> :zap: <b>Github Stats</b> </summary>
 <p align="center">:heart:</p>
 <p align="center"><a href="https://github.com/fatkhan05">
