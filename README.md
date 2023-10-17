@@ -43,7 +43,7 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 </a></p>
 <p align="center">
   <a href="https://github.com/eby8zevin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eby8zevin&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatkhan05&theme=dark"/>
   </a>
 </p>
 </details>
