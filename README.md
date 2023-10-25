@@ -18,7 +18,7 @@
 ```
 while ( ! (succeed = try( ) ) );
 
-“Jika tidak bisa berlomba berbuat baik,
+“Jika tidak bisa berlomba untuk berbuat baik,
 Maka berkumpullah dengan pendosa
 agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 ```
