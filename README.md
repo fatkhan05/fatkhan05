@@ -29,7 +29,7 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
   
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C349%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1097-blue)
 
 </details>
 </details>
