@@ -1,4 +1,4 @@
-Fname: Waka Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
