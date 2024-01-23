@@ -16,7 +16,7 @@
 ##### MOTTO
 
 ```
-while ( ! (succeed = try( ) ) );
+while ( ! (succeed = try { } ) );
 
 “Jika tidak bisa berlomba untuk berbuat baik,
 Maka berkumpullah dengan pendosa
