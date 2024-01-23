@@ -28,21 +28,7 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -57,7 +43,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 03:47:08 UTC
+ Last Updated on 23/01/2024 17:16:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
