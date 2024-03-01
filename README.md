@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,15 +51,15 @@ Sunday                   160 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  34 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-KBIHU_Al-Rahmah          33 hrs 15 mins      ████████████████████████░   97.06 % 
-templating-adminty       55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-adminty-dashboard-master 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+KBIHU_Al-Rahmah          33 hrs 9 mins       ████████████████████████░   96.44 % 
+templating-adminty       1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+adminty-dashboard-master 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Linux                    34 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2024 17:26:31 UTC
+ Last Updated on 01/03/2024 17:32:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
