@@ -28,6 +28,8 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 <br/>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2037%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 📅 **I'm Most Productive on Wednesday** 
@@ -73,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:45:16 UTC
+ Last Updated on 15/04/2024 17:14:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
