@@ -28,9 +28,9 @@ agar berlomba-lomba untuk bertaubat” - Ust. Adi Hidayat
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -51,13 +51,16 @@ Sunday                   214 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-KBIHU_Al-Rahmah          1 min               █████████████████████████   100.00 % 
+elearning-smaalmultazam  6 mins              ███████████████████░░░░░░   76.79 % 
+KBIHU_Al-Rahmah          1 min               █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+al_rahmah                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+Linux                    8 mins              ████████████████████████░   97.86 % 
+Mac                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +76,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2024 17:16:26 UTC
+ Last Updated on 19/04/2024 17:16:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
