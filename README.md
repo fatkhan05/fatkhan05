@@ -5,7 +5,7 @@
 ![GitHub Follow](https://img.shields.io/github/followers/fatkhan05.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/fatkhan05?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-[![My Skills](https://skillicons.dev/icons?i=php,tailwind,js,laravel,vscode,linux,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,tailwind,js,laravel,vscode,linux,html,nextjs,nginx)](https://skillicons.dev)
 
 [![Website](https://img.shields.io/website?up_message=online&up_color=61DBFB&down_message=online&down_color=FF0000&url=https%3A%2F%2Fportfolio-fatkhan&logo=tailwindcss)](https://fatkhan05.github.io/portfolio-tailwindcss)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
