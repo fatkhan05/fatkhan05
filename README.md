@@ -28,9 +28,9 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -51,17 +51,17 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-e-commerce               8 hrs 21 mins       ██████████████░░░░░░░░░░░   54.28 % 
-e-surat-BKPSDMPMKS       3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-siganteng-tenan          1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-e-commerce(admin)        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-payroll_al_azhar         41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+e-surat-BKPSDMPMKS       5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.87 % 
+e-commerce               4 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
+payroll_al_azhar         1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+siganteng-tenan          1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+e-commerce(admin)        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 💻 Operating System: 
-Mac                      15 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +77,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2024 17:19:10 UTC
+ Last Updated on 10/07/2024 17:17:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
