@@ -28,39 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2048%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  593 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Wednesday                507 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Thursday                 518 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Saturday                 193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Sunday                   262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-VS Code                  16 hrs 38 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-sikuat2024               12 hrs 9 mins       ██████████████████░░░░░░░   73.13 % 
-al_rahmah                3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-sikuat_sitb              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-
-💻 Operating System: 
-Windows                  16 hrs 38 mins      █████████████████████████   100.00 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -75,7 +43,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 17:19:37 UTC
+ Last Updated on 01/12/2024 17:19:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
