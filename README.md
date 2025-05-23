@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C221%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,15 +51,14 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   7 hrs               █████████████████████████   99.66 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Chrome                   8 hrs 2 mins        █████████████████████████   99.81 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-qwen-cline?tab=readme-ov-7 hrs               █████████████████████████   99.66 % 
-shofistwn.github.io      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+qwen-cline?tab=readme-ov-8 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +74,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 17:22:42 UTC
+ Last Updated on 23/05/2025 17:22:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
