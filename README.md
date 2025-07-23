@@ -51,14 +51,13 @@ Sunday                   178 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   29 mins             ███████████████████████░░   92.33 % 
-Terminal                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-whatsapp-faud-tracker    31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +73,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2025 17:27:04 UTC
+ Last Updated on 23/07/2025 17:27:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
