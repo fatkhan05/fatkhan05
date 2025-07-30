@@ -28,37 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C238%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Tuesday                  241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Wednesday                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Thursday                 318 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Friday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Saturday                 173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Sunday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-Terminal                 22 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-whatsapp-faud-tracker    22 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -73,7 +43,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 17:27:55 UTC
+ Last Updated on 30/07/2025 17:27:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
