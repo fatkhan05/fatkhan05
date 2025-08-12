@@ -51,13 +51,13 @@ Sunday                   178 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Terminal                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-textilindo-spa           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2025 17:26:25 UTC
+ Last Updated on 12/08/2025 17:25:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
