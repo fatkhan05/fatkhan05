@@ -30,7 +30,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -77,7 +77,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 17:22:14 UTC
+ Last Updated on 18/08/2025 17:25:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
