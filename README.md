@@ -28,6 +28,8 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C286%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I Mostly Code in JavaScript** 
@@ -43,7 +45,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 17:18:18 UTC
+ Last Updated on 21/09/2025 17:19:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
