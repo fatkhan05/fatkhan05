@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C312%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,15 +51,15 @@ Sunday                   188 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  9 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frappe-bench             2 hrs 32 mins       █████████████░░░░░░░░░░░░   50.52 % 
-helpdesk                 2 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.09 % 
-helpdesk_plus            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+helpdesk                 6 hrs 28 mins       █████████████████░░░░░░░░   69.33 % 
+frappe-bench             2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+helpdesk_plus            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025 17:22:17 UTC
+ Last Updated on 21/10/2025 17:22:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
