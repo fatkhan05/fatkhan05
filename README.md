@@ -28,37 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C344%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 334 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Friday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Saturday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Sunday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -73,7 +43,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 17:25:49 UTC
+ Last Updated on 02/01/2026 17:24:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
