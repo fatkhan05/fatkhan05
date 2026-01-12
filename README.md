@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C348%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C348%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,15 +51,15 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   14 mins             ██████████████████████░░░   88.39 % 
-Terminal                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Chrome                   14 mins             ██████████████████░░░░░░░   73.68 % 
+Terminal                 5 mins              ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 
 🐱‍💻 Projects: 
-topup-apps               13 mins             ████████████████████░░░░░   80.51 % 
-portfolio-tailwindcss-rel3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+topup-apps               16 mins             █████████████████████░░░░   83.76 % 
+portfolio-tailwindcss-rel3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2026 17:24:16 UTC
+ Last Updated on 12/01/2026 17:30:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
