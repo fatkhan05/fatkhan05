@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,13 +51,13 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Terminal                 1 min               █████████████████████████   100.00 % 
+Terminal                 17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-n8n                      1 min               █████████████████████████   100.00 % 
+n8n                      17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2026 18:11:11 UTC
+ Last Updated on 15/04/2026 18:08:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
