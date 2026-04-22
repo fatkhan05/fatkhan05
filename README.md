@@ -51,13 +51,13 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Terminal                 15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-n8n                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2026 18:04:16 UTC
+ Last Updated on 22/04/2026 18:04:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
