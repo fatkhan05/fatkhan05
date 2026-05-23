@@ -30,50 +30,20 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 334 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Friday                   235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Saturday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Sunday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-Terminal                 46 mins             ████████████████░░░░░░░░░   65.26 % 
-Antigravity              24 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
-
-🐱‍💻 Projects: 
-tex_website              1 hr 11 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      46 mins             ████████████████░░░░░░░░░   65.26 % 
-WSL                      24 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 18:58:26 UTC
+ Last Updated on 23/05/2026 18:04:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
