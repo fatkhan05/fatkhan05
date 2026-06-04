@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -51,14 +51,16 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   4 hrs 31 mins       ████████████████████████░   97.62 % 
-Terminal                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Chrome                   4 hrs 57 mins       ████████████████████████░   97.82 % 
+Terminal                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-restaurant-app           4 hrs 38 mins       █████████████████████████   100.00 % 
+restaurant-app           4 hrs 59 mins       █████████████████████████   98.47 % 
+restoran-app-java        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+restaurant-app#          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +76,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 20:20:58 UTC
+ Last Updated on 04/06/2026 19:27:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
