@@ -28,52 +28,22 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C402%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 334 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Friday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 
 
 
 
- Last Updated on 23/07/2026 18:17:54 UTC
+ Last Updated on 24/07/2026 18:23:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
