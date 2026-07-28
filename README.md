@@ -28,45 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2025%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2052%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 334 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Friday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-Chrome                   1 hr 3 mins         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-fatkhan-akbar            1 hr 3 mins         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -81,7 +43,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 18:28:01 UTC
+ Last Updated on 28/07/2026 18:20:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
