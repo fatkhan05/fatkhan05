@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C194%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2052%20mins-blue?style=flat)
 
@@ -37,13 +37,13 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 334 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Friday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Thursday                 336 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Friday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 ```
 
 
@@ -53,13 +53,15 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   1 hr 3 mins         █████████████████████████   100.00 % 
+Chrome                   5 hrs 24 mins       ████████████████████████░   97.81 % 
+Terminal                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projects: 
-fatkhan-akbar            1 hr 3 mins         █████████████████████████   100.00 % 
+developer-portfolios     4 hrs 21 mins       ████████████████████░░░░░   78.75 % 
+fatkhan-akbar            1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+Mac                      5 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,17 +73,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 
 
 
 
- Last Updated on 29/07/2026 18:12:27 UTC
+ Last Updated on 30/07/2026 18:22:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
