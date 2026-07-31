@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C194%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2052%20mins-blue?style=flat)
 
@@ -37,13 +37,13 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Thursday                 336 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Friday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 336 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Friday                   239 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 
 
@@ -53,15 +53,21 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   5 hrs 24 mins       ████████████████████████░   97.81 % 
-Terminal                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Chrome                   10 hrs 28 mins      ████████████████████████░   95.32 % 
+Terminal                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+NavicatPremium           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-developer-portfolios     4 hrs 21 mins       ████████████████████░░░░░   78.75 % 
-fatkhan-akbar            1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+developer-portfolios     9 hrs 48 mins       ██████████████████████░░░   89.24 % 
+AI-Media-Nusantara       48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+fatkhan-akbar            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+organizations            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+compro-aimn              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      5 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 57 mins      █████████████████████████   99.66 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,17 +79,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Blade                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
 
 
 
- Last Updated on 30/07/2026 18:22:14 UTC
+ Last Updated on 31/07/2026 18:25:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
