@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C204%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2059%20mins-blue?style=flat)
 
@@ -53,28 +53,28 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   13 hrs 39 mins      ███████████████████████░░   91.88 % 
-Terminal                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-NavicatPremium           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Chrome                   18 hrs 46 mins      ███████████████████████░░   93.95 % 
+Terminal                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+NavicatPremium           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-developer-portfolios     9 hrs 48 mins       █████████████████░░░░░░░░   66.03 % 
-AI-Media-Nusantara       4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-my-toopai-ai             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-acc-holasync             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-fatkhan-akbar            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+developer-portfolios     9 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.11 % 
+AI-Media-Nusantara       6 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
+claude-seo               2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+my-toopai-ai             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+toopai-ai                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Mac                      14 hrs 49 mins      █████████████████████████   99.75 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Mac                      19 hrs 56 mins      █████████████████████████   99.81 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (7.41%)
+⏱ AI Coding Time: 1 hr 6 mins (5.52%)
 
 ✍️ 0 lines written by AI, 16 lines written by hand (0.0% AI-written)
 
@@ -106,7 +106,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 18:04:15 UTC
+ Last Updated on 02/08/2026 18:04:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
