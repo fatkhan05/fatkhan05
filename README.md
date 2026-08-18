@@ -37,13 +37,13 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  248 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Wednesday                244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Thursday                 339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Tuesday                  249 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Wednesday                244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Thursday                 339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 Saturday                 187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 ```
 
 
@@ -53,43 +53,43 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   14 hrs 1 min        ████████████████░░░░░░░░░   64.24 % 
-Antigravity IDE          4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-NavicatPremium           3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Terminal                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Postman                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Chrome                   9 hrs 37 mins       ███████████████░░░░░░░░░░   58.61 % 
+Antigravity IDE          4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+NavicatPremium           2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Terminal                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Postman                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-toopai-ai                10 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.07 % 
-web-tex                  4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Microsoft-Activation-Scri2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-toopai.ai                2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-hermes-agent             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+toopai-ai                10 hrs 16 mins      ████████████████░░░░░░░░░   62.64 % 
+Microsoft-Activation-Scri2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+toopai.ai                2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+AI-Media-Nusantara       40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+web-tex                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      21 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 35 mins (53.06%)
+⏱ AI Coding Time: 9 hrs 41 mins (59.03%)
 
-✍️ 1,668 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,391 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 60 AI Prompts
+🧠 9 AI Sessions, 57 AI Prompts
 
-Gemini                   1,549 lines         ██████████████████████░░░   86.83 % 
-Sonnet                   235 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Gemini                   1,244 lines         █████████████████████░░░░   84.11 % 
+Sonnet                   235 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 443 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 446 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -106,7 +106,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 17:33:35 UTC
+ Last Updated on 18/08/2026 17:33:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
