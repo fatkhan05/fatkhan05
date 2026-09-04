@@ -28,22 +28,22 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C256%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C260%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Thursday                 352 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Saturday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Monday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Thursday                 352 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Friday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -53,42 +53,42 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 19 mins       ███████████████████░░░░░░   76.99 % 
-NavicatPremium           1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Chrome                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Postman                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Terminal                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Antigravity IDE          7 hrs 55 mins       ████████████████░░░░░░░░░   63.38 % 
+Chrome                   3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+NavicatPremium           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Postman                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Terminal                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🐱‍💻 Projects: 
-toopai.ai                8 hrs 50 mins       ██████████████████░░░░░░░   73.01 % 
-toopai-ai                1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Microsoft-Activation-Scri1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-AI-Media-Nusantara       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+toopai.ai                6 hrs 15 mins       █████████████░░░░░░░░░░░░   50.04 % 
+toopai-ai                5 hrs               ██████████░░░░░░░░░░░░░░░   40.12 % 
+AI-Media-Nusantara       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Microsoft-Activation-Scri16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 Operating System: 
-Mac                      12 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 40 mins (96.42%)
+⏱ AI Coding Time: 10 hrs 46 mins (86.25%)
 
-✍️ 1,729 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,748 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 131 AI Prompts
+🧠 6 AI Sessions, 116 AI Prompts
 
-Gemini                   2,157 lines         ███████████████████████░░   93.58 % 
-Sonnet                   148 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Gemini                   2,059 lines         ██████████████████████░░░   89.80 % 
+Sonnet                   234 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 214 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
+📝 Concise Prompter — average 199 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +105,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 19:43:20 UTC
+ Last Updated on 04/09/2026 19:23:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
