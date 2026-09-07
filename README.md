@@ -34,63 +34,6 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Thursday                 352 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Friday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-Antigravity IDE          7 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.13 % 
-Chrome                   7 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.54 % 
-NavicatPremium           58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🐱‍💻 Projects: 
-hexloader                5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.99 % 
-toopai.ai                4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.86 % 
-toopai-ai                4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-AI-Media-Nusantara       53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-
-💻 Operating System: 
-Mac                      15 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 41 mins (80.77%)
-
-✍️ 2,172 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 126 AI Prompts
-
-Gemini                   2,250 lines         ██████████████████████░░░   86.61 % 
-Sonnet                   348 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 237 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +47,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 19:00:20 UTC
+ Last Updated on 07/09/2026 20:26:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
