@@ -28,9 +28,9 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C281%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C286%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,44 +53,44 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   18 hrs 20 mins      █████████████████░░░░░░░░   68.89 % 
-Antigravity IDE          6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-NavicatPremium           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Postman                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Chrome                   19 hrs 46 mins      ██████████████████░░░░░░░   72.60 % 
+Antigravity IDE          5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+NavicatPremium           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Postman                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects: 
-toopai-ai                11 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.06 % 
-hexloader                5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-bfs                      5 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-toopai.ai                2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-oauth                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+bfs                      8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+toopai-ai                8 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+hexloader                5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+toopai.ai                2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+oauth                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Mac                      26 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 44 mins (62.87%)
+⏱ AI Coding Time: 15 hrs 33 mins (57.09%)
 
-✍️ 1,748 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 1,460 lines written by AI, 1 lines written by hand (99.93% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 128 AI Prompts
+🧠 7 AI Sessions, 123 AI Prompts
 
-Gemini                   1,707 lines         █████████████████████░░░░   83.07 % 
-Sonnet                   348 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Gemini                   1,432 lines         █████████████████████░░░░   85.70 % 
+Sonnet                   239 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 332 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 393 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.92% of changed lines were hand-edited
+🚀 High AI Trust — 1.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 19:31:53 UTC
+ Last Updated on 11/09/2026 19:31:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
