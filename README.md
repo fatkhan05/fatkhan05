@@ -28,70 +28,11 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C291%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Wednesday                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Thursday                 368 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Friday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-Chrome                   13 hrs 43 mins      █████████████████░░░░░░░░   66.96 % 
-Antigravity IDE          4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Postman                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-NavicatPremium           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-
-🐱‍💻 Projects: 
-bfs                      8 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
-toopai.ai                4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-hono                     2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-toopai-ai                2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-oauth                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-
-💻 Operating System: 
-Mac                      20 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 14 mins (49.97%)
-
-✍️ 942 lines written by AI, 1 lines written by hand (99.89% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 99 AI Prompts
-
-Gemini                   1,025 lines         ████████████████████████░   96.97 % 
-Sonnet                   32 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 1,054 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 1.77% of changed lines were hand-edited
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -106,7 +47,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 20:52:42 UTC
+ Last Updated on 15/09/2026 20:06:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
