@@ -34,6 +34,65 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Wednesday                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Thursday                 368 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Friday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+🔥 Editors: 
+Chrome                   10 hrs 39 mins      ████████████████░░░░░░░░░   62.16 % 
+Antigravity IDE          4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+VS Code                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Postman                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+NavicatPremium           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+🐱‍💻 Projects: 
+bfs                      8 hrs 58 mins       █████████████░░░░░░░░░░░░   52.36 % 
+toopai.ai                5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.00 % 
+hono                     2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+BotShoopee               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+toopai-ai                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+💻 Operating System: 
+Mac                      17 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 52 mins (51.69%)
+
+✍️ 951 lines written by AI, 1 lines written by hand (99.89% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 86 AI Prompts
+
+Gemini                   1,047 lines         ████████████████████████░   97.03 % 
+Sonnet                   32 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 1,222 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 1.73% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -47,7 +106,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 20:06:56 UTC
+ Last Updated on 16/09/2026 19:58:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
