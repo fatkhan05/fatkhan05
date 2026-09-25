@@ -28,9 +28,9 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,45 +53,45 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.35 % 
-Chrome                   10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.67 % 
-VS Code                  6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Postman                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Terminal                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Chrome                   15 hrs 46 mins      █████████████░░░░░░░░░░░░   50.29 % 
+Antigravity IDE          7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+VS Code                  6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Postman                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Terminal                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-toopai.ai                8 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-latihan                  6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-oauth                    6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-toopai-ai                5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-portfolio-new-nextjs     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+toopai-ai                10 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.32 % 
+latihan                  6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+oauth                    6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+toopai.ai                4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+portfolio-new-nextjs     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Mac                      23 hrs 58 mins      ████████████████████░░░░░   79.17 % 
-Windows                  6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Mac                      25 hrs 3 mins       ████████████████████░░░░░   79.88 % 
+Windows                  6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 14 mins (60.25%)
+⏱ AI Coding Time: 14 hrs 20 mins (45.74%)
 
-✍️ 1,431 lines written by AI, 548 lines written by hand (72.31% AI-written)
+✍️ 1,086 lines written by AI, 548 lines written by hand (66.46% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 147 AI Prompts
+🧠 6 AI Sessions, 128 AI Prompts
 
-Gemini                   1,549 lines         ████████████████████████░   95.68 % 
-Sonnet                   70 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Gemini                   1,186 lines         ████████████████████████░   94.50 % 
+Sonnet                   69 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.31% of written lines came from AI
-📄 Detailed Prompter — average 795 characters per prompt
+🤖 AI-Driven — 66.46% of written lines came from AI
+📄 Detailed Prompter — average 804 characters per prompt
 🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 33.35% of changed lines were hand-edited
+🚀 High AI Trust — 39.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 20:21:46 UTC
+ Last Updated on 25/09/2026 20:22:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
