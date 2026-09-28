@@ -53,45 +53,45 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   15 hrs 46 mins      ██████████████░░░░░░░░░░░   55.64 % 
-VS Code                  6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-Antigravity IDE          4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Postman                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Chrome                   11 hrs 57 mins      █████████████░░░░░░░░░░░░   51.42 % 
+VS Code                  7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
+Antigravity IDE          2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Postman                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-toopai-ai                10 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   36.15 % 
-latihan                  6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-oauth                    6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-toopai.ai                2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-portfolio-new-nextjs     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+latihan                  6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+oauth                    6 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+toopai-ai                5 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+toopai.ai                2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+portfolio-new-nextjs     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 💻 Operating System: 
-Mac                      22 hrs 2 mins       ███████████████████░░░░░░   77.74 % 
-Windows                  6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Mac                      16 hrs 56 mins      ██████████████████░░░░░░░   72.87 % 
+Windows                  6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 15 mins (39.71%)
+⏱ AI Coding Time: 6 hrs 52 mins (29.53%)
 
-✍️ 931 lines written by AI, 548 lines written by hand (62.95% AI-written)
+✍️ 649 lines written by AI, 5,084 lines written by hand (11.32% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 96 AI Prompts
+🧠 4 AI Sessions, 63 AI Prompts
 
-Gemini                   1,013 lines         ███████████████████████░░   93.62 % 
-Sonnet                   69 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Gemini                   730 lines           ███████████████████████░░   91.36 % 
+Sonnet                   69 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.95% of written lines came from AI
-📄 Detailed Prompter — average 837 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 42.81% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.32% of written lines came from AI
+📄 Detailed Prompter — average 1,071 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🔍 Hands-On Reviewer — 92.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 20:01:47 UTC
+ Last Updated on 28/09/2026 22:29:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
