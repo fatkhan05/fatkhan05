@@ -37,10 +37,10 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Wednesday                260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Monday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 Friday                   305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Saturday                 216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
@@ -53,61 +53,58 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   11 hrs 50 mins      ████████████████░░░░░░░░░   62.62 % 
-VS Code                  6 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Antigravity IDE          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Postman                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Chrome                   11 hrs 53 mins      ████████████████████░░░░░   79.33 % 
+VS Code                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Terminal                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-oauth                    6 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
-latihan                  5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-toopai-ai                5 hrs               ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-portfolio-new-nextjs     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-toopai.ai                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+toopai-ai                5 hrs               ████████░░░░░░░░░░░░░░░░░   33.46 % 
+oauth                    3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+tiktokshop-php           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+portfolio-new-nextjs     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+latihan                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 💻 Operating System: 
-Mac                      13 hrs 46 mins      ██████████████████░░░░░░░   72.80 % 
-Windows                  5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Mac                      14 hrs 8 mins       ████████████████████████░   94.43 % 
+Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 52 mins (20.44%)
+⏱ AI Coding Time: 1 hr 23 mins (9.29%)
 
-✍️ 444 lines written by AI, 4,898 lines written by hand (8.31% AI-written)
+✍️ 0 lines written by AI, 4,586 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 41 AI Prompts
-
-Gemini                   519 lines           ██████████████████████░░░   88.27 % 
-Sonnet                   69 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+🧠 2 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.31% of written lines came from AI
-📄 Detailed Prompter — average 1,232 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 94.28% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 4,707 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Blade                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Blade                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
 
 
- Last Updated on 29/09/2026 21:20:55 UTC
+ Last Updated on 30/09/2026 21:22:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
