@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C327%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2051%20mins-blue?style=flat)
 
@@ -53,41 +53,39 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   11 hrs 53 mins      ████████████████████░░░░░   79.33 % 
-VS Code                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Terminal                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Chrome                   13 hrs 23 mins      ██████████████████████░░░   88.40 % 
+Terminal                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Postman                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🐱‍💻 Projects: 
-toopai-ai                5 hrs               ████████░░░░░░░░░░░░░░░░░   33.46 % 
-oauth                    3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-tiktokshop-php           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-portfolio-new-nextjs     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-latihan                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+healthcare-scheduling    7 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.52 % 
+toopai-ai                5 hrs               ████████░░░░░░░░░░░░░░░░░   33.08 % 
+tiktokshop-php           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+toopai.ai                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+two_factor_authentication2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      14 hrs 8 mins       ████████████████████████░   94.43 % 
-Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Mac                      15 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (9.29%)
+⏱ AI Coding Time: 5 mins (0.56%)
 
-✍️ 0 lines written by AI, 4,586 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,536 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,707 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -104,7 +102,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 21:22:13 UTC
+ Last Updated on 01/10/2026 21:44:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
