@@ -28,22 +28,22 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C327%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Friday                   305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Saturday                 216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Monday                   271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Thursday                 390 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Friday                   310 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Saturday                 216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 
 
@@ -53,26 +53,25 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   13 hrs 23 mins      ██████████████████████░░░   88.40 % 
-Terminal                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Postman                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Chrome                   10 hrs 17 mins      █████████████████████░░░░   85.06 % 
+Terminal                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Postman                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-healthcare-scheduling    7 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.52 % 
-toopai-ai                5 hrs               ████████░░░░░░░░░░░░░░░░░   33.08 % 
-tiktokshop-php           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-toopai.ai                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-two_factor_authentication2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+healthcare-scheduling    9 hrs 6 mins        ███████████████████░░░░░░   75.37 % 
+tiktokshop-php           2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+toopai.ai                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+toopai-ai                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      15 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (0.56%)
+⏱ AI Coding Time: 5 mins (0.7%)
 
 ✍️ 0 lines written by AI, 4,536 lines written by hand (0.0% AI-written)
 
@@ -102,7 +101,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 21:44:41 UTC
+ Last Updated on 02/10/2026 21:16:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
