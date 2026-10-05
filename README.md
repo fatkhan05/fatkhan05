@@ -53,26 +53,26 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   10 hrs 17 mins      █████████████████████░░░░   85.56 % 
-Terminal                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Postman                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Chrome                   15 hrs 41 mins      ███████████████████████░░   92.07 % 
+Terminal                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects: 
-healthcare-scheduling    9 hrs 6 mins        ███████████████████░░░░░░   75.82 % 
-tiktokshop-php           2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-toopai.ai                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+healthcare-scheduling    9 hrs 6 mins        █████████████░░░░░░░░░░░░   53.47 % 
+tiktok-scraper           5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+tiktokshop-php           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+toopai.ai                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      12 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      17 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (0.7%)
+⏱ AI Coding Time: 5 mins (0.5%)
 
-✍️ 0 lines written by AI, 4,536 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -81,10 +81,10 @@ Mac                      12 hrs 1 min        ███████████�
 🧠 2 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +100,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 20:02:04 UTC
+ Last Updated on 05/10/2026 23:07:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
