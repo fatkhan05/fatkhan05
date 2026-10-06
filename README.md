@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2056%20mins-blue?style=flat)
 
@@ -53,24 +53,24 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   15 hrs 41 mins      ███████████████████████░░   92.07 % 
-Terminal                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Chrome                   23 hrs 28 mins      ████████████████████████░   94.55 % 
+Terminal                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-healthcare-scheduling    9 hrs 6 mins        █████████████░░░░░░░░░░░░   53.47 % 
-tiktok-scraper           5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
-tiktokshop-php           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-toopai.ai                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+tiktok-scraper           13 hrs 13 mins      █████████████░░░░░░░░░░░░   53.26 % 
+healthcare-scheduling    9 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.87 % 
+tiktokshop-php           2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+toopai.ai                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      17 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      24 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (0.5%)
+⏱ AI Coding Time: 5 mins (0.34%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -100,7 +100,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 23:07:32 UTC
+ Last Updated on 06/10/2026 21:33:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
