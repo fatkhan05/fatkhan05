@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C348%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2056%20mins-blue?style=flat)
 
@@ -53,36 +53,40 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   26 hrs 50 mins      █████████████████████████   98.79 % 
-Terminal                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Chrome                   19 hrs 5 mins       ███████████████████░░░░░░   74.66 % 
+Antigravity IDE          6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Terminal                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Postman                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-tiktok-scraper           18 hrs 32 mins      █████████████████░░░░░░░░   68.28 % 
-healthcare-scheduling    8 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
+tiktok-scraper           16 hrs 23 mins      ████████████████░░░░░░░░░   64.07 % 
+anti-slop                7 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+healthcare-scheduling    2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 
 💻 Operating System: 
-Mac                      27 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      25 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (0.31%)
+⏱ AI Coding Time: 6 hrs 15 mins (24.49%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 9,776 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 25,069,649 Input Tokens, 578,859 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $20.97 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 0 AI Prompts
+🧠 8 AI Sessions, 92 AI Prompts
+
+Gemini                   9,796 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,272 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +102,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 21:54:17 UTC
+ Last Updated on 08/10/2026 21:58:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
