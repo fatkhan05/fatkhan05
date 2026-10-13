@@ -53,38 +53,41 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   12 hrs 43 mins      ████████████████████░░░░░   78.91 % 
-Antigravity IDE          2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Terminal                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Chrome                   12 hrs 5 mins       ██████████████████████░░░   87.50 % 
+Antigravity IDE          1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Terminal                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-tiktok-scraper           11 hrs 57 mins      ███████████████████░░░░░░   74.14 % 
-anti-slop                3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-toopai.ai                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+anti-slop                5 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.07 % 
+tiktok-scraper           5 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.36 % 
+toopai.ai                2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      16 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 50 mins (17.6%)
+⏱ AI Coding Time: 4 hrs 20 mins (31.39%)
 
-✍️ 4,950 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,309 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,951,465 Input Tokens, 368,282 Output Tokens
+🔤 4,116,354 Input Tokens, 119,048 Output Tokens
 
-💵 $10.34 Estimated AI Cost This Week
+💵 $3.53 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 47 AI Prompts
+🧠 9 AI Sessions, 35 AI Prompts
 
-Gemini                   4,950 lines         █████████████████████████   100.00 % 
+Cursor                   1,897 lines         ██████████████░░░░░░░░░░░   57.33 % 
+Gemini                   1,412 lines         ███████████░░░░░░░░░░░░░░   42.67 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,445 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 4,572 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -101,7 +104,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 23:34:49 UTC
+ Last Updated on 13/10/2026 21:47:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
