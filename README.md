@@ -28,7 +28,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs-blue?style=flat)
 
@@ -53,26 +53,27 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Chrome                   12 hrs 8 mins       █████████████████████████   99.94 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Chrome                   12 hrs 8 mins       ████████████████████████░   95.96 % 
+VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-anti-slop                8 hrs 52 mins       ██████████████████░░░░░░░   73.14 % 
-toopai.ai                3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-toopai-ratecard          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-terminals                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-qrflow                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+anti-slop                8 hrs 52 mins       ██████████████████░░░░░░░   70.23 % 
+toopai.ai                3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+pemesanan-bahan-ajar     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+toopai-ratecard          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+sitta-praktik            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Mac                      12 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 28 mins (61.53%)
+⏱ AI Coding Time: 7 hrs 28 mins (59.08%)
 
-✍️ 4,625 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,625 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -83,10 +84,10 @@ Mac                      12 hrs 8 mins       ███████████�
 Cursor                   4,689 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 99.96% of written lines came from AI
 📚 Verbose Prompter — average 3,286 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +103,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 19:22:29 UTC
+ Last Updated on 19/10/2026 21:24:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
