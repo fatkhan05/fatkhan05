@@ -53,42 +53,43 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  5 hrs 3 mins        ████████████████████░░░░░   80.63 % 
-Agent                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Terminal                 3 hrs               ███████████░░░░░░░░░░░░░░   43.13 % 
+VS Code                  2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
+Agent                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-toopai.ai                5 hrs 34 mins       ██████████████████████░░░   88.95 % 
-pemesanan-bahan-ajar     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-sitta-praktik            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-agent-tools              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+toopai.ai                4 hrs 49 mins       █████████████████░░░░░░░░   69.24 % 
+pemesanan-bahan-ajar     2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+sitta-praktik            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 js                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 46 mins (91.96%)
+⏱ AI Coding Time: 5 hrs 27 mins (78.35%)
 
-✍️ 9,443 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 5,128 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 40 AI Prompts
+🧠 6 AI Sessions, 46 AI Prompts
 
-Cursor                   9,285 lines         ████████████████████████░   95.91 % 
-Grok                     396 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Cursor                   4,543 lines         ██████████████████████░░░   87.87 % 
+Grok                     396 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Default                  231 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 4,869 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 3,560 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +105,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 20:29:17 UTC
+ Last Updated on 23/10/2026 20:17:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
