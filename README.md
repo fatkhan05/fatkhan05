@@ -30,7 +30,7 @@ agar berlomba-lomba untuk bertaubat” ~ Ust. Adi Hidayat ~
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,42 +53,43 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Terminal                 18 hrs 50 mins      █████████████████████████   99.05 % 
-Antigravity IDE          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Terminal                 20 hrs 12 mins      █████████████████████████   99.01 % 
+Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-toopai.ai                12 hrs 7 mins       ████████████████░░░░░░░░░   63.70 % 
-pemesanan-bahan-ajar     6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
-Downloads                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-h5prev                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+pemesanan-bahan-ajar     10 hrs 32 mins      █████████████░░░░░░░░░░░░   51.69 % 
+toopai.ai                9 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.42 % 
+Downloads                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+h5prev                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 canvases                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      19 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      20 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 33 mins (76.55%)
+⏱ AI Coding Time: 13 hrs 44 mins (67.36%)
 
-✍️ 12,173 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,265 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 126,168 Input Tokens, 17,309 Output Tokens
+🔤 151,946 Input Tokens, 18,758 Output Tokens
 
-💵 $0.64 Estimated AI Cost This Week
+💵 $0.77 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 147 AI Prompts
+🧠 22 AI Sessions, 173 AI Prompts
 
-Default                  12,970 lines        ████████████████████████░   95.23 % 
-Cursor                   364 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Sonnet                   285 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Default                  9,929 lines         ███████████████████████░░   93.86 % 
+Cursor                   364 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Sonnet                   285 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,005 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 4,490 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +106,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 21:32:36 UTC
+ Last Updated on 27/10/2026 21:11:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
