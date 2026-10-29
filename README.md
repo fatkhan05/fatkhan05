@@ -53,43 +53,39 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Terminal                 20 hrs 12 mins      █████████████████████████   99.01 % 
-Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Terminal                 15 hrs 44 mins      █████████████████████████   99.19 % 
+Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🐱‍💻 Projects: 
-pemesanan-bahan-ajar     10 hrs 32 mins      █████████████░░░░░░░░░░░░   51.69 % 
-toopai.ai                9 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.42 % 
-Downloads                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-h5prev                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-canvases                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+pemesanan-bahan-ajar     10 hrs 27 mins      ████████████████░░░░░░░░░   65.83 % 
+toopai.ai                5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+h5prev                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      20 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 44 mins (67.36%)
+⏱ AI Coding Time: 9 hrs 14 mins (58.22%)
 
-✍️ 9,265 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,165 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 151,946 Input Tokens, 18,758 Output Tokens
 
 💵 $0.77 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 173 AI Prompts
+🧠 15 AI Sessions, 138 AI Prompts
 
-Default                  9,929 lines         ███████████████████████░░   93.86 % 
-Cursor                   364 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Sonnet                   285 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Default                  1,019 lines         ████████████████████░░░░░   78.14 % 
+Sonnet                   285 lines           █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,490 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 4,709 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -106,7 +102,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 21:36:11 UTC
+ Last Updated on 29/10/2026 21:43:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
