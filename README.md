@@ -53,38 +53,38 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-Terminal                 15 hrs 44 mins      █████████████████████████   99.19 % 
-Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Terminal                 12 hrs 44 mins      █████████████████████████   99.00 % 
+Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-pemesanan-bahan-ajar     10 hrs 27 mins      ████████████████░░░░░░░░░   65.83 % 
-toopai.ai                5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
-h5prev                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+pemesanan-bahan-ajar     8 hrs 53 mins       █████████████████░░░░░░░░   69.09 % 
+toopai.ai                3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
+h5prev                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Mac                      15 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 14 mins (58.22%)
+⏱ AI Coding Time: 7 hrs 14 mins (56.26%)
 
-✍️ 1,165 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 938 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 151,946 Input Tokens, 18,758 Output Tokens
 
 💵 $0.77 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 138 AI Prompts
+🧠 12 AI Sessions, 111 AI Prompts
 
-Default                  1,019 lines         ████████████████████░░░░░   78.14 % 
-Sonnet                   285 lines           █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Default                  788 lines           ██████████████████░░░░░░░   73.44 % 
+Sonnet                   285 lines           ███████░░░░░░░░░░░░░░░░░░   26.56 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,709 characters per prompt
+📚 Verbose Prompter — average 5,414 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -102,7 +102,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 21:43:45 UTC
+ Last Updated on 30/10/2026 21:26:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
